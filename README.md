@@ -32,6 +32,7 @@ _Menara Prefa (July - August 2024)_
 _Centre Hospitalier Universitaire Mohammed VI (April - June 2023)_  
 - Designed and developed a web application for booking appointments online.  
 - **Technologies Used**: Spring Boot, Angular, MySQL
+  
 ---
 
 ## Projects
