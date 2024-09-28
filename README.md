@@ -64,7 +64,6 @@ Created a desktop application for managing library records.
 ---
 
 ## Contact Information
-- **Doha Tahir**  
   **Marrakech, Morocco**
 - **Email**: doha15tahir@gmail.com  
 - **Phone**: +212 604-646309
